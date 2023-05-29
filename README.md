@@ -11,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/agustín juarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustín juarez" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/
+agustín-juárez-7a742b237
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustín juarez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
